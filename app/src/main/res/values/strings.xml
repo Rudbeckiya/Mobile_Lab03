@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="creators_name">Avchuhov Vlad from group 313</string>
+    <string name="tv_For">For:</string>
+    <string name="speakable_text">1</string>
+    <string name="tv_To">To:</string>
+    <string name="result">...</string>
+    <string name="convert_btn">Convert</string>
+</resources>
